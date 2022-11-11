@@ -3,11 +3,11 @@
 <table border="2" cellpading="10">
   <tr>
     <td><b>Nama</b></td>
-    <td>Muhammad Rizky Abdillah</td>
+    <td>Raif Eka Rianda</td>
   </tr>
   <tr>
     <td><b>NIM</b></td>
-    <td>312010386</td>
+    <td>312010254</td>
   </tr>
   <tr>
     <td><b>Kelas</b></td>
